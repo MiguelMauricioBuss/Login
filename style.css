@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Sedgwick+Ave+Display&display=swap');
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("ceu.jpg");
+    font-size: x-large;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+}
+div{
+    border: solid;
+    width: 60vw;
+    height: 75vh;
+    margin: 0 auto;
+    border-width: 2.5px;
+    background-color: rgba(13, 25, 129, 0.76);
+    
+}
+input{
+    width: 220px;
+    height: 25px;
+    border-radius: 30px;
+    font-size: medium;
+    text-align: center;
+    background-color: white;
+    font-size: small;
+    font-family: 'Libre Baskerville', serif;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: medium;
+    background-color: white;
+    font-size: small;
+    font-family: 'Libre Baskerville', serif;
+}
